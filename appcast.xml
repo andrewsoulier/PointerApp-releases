@@ -5,5 +5,14 @@
     <link>https://raw.githubusercontent.com/andrewsoulier/PointerApp-releases/main/appcast.xml</link>
     <description>PointerApp updates</description>
     <language>en</language>
+    <item>
+      <title>PointerApp 1.0.1</title>
+      <pubDate>Thu, 26 Nov 2026 03:20:38 +0000</pubDate>
+      <sparkle:version>202611252015</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[First update-feed test release: Sparkle auto-updates, Check for Updates menu item, and the new sound packs (Mouse Click Gaming/Office, Punch A/B, Typewriter, Keyboard, Gravitar Shot).]]></description>
+      <enclosure url="https://github.com/andrewsoulier/PointerApp-releases/releases/download/v1.0.1/PointerApp-1.0.1.zip" type="application/octet-stream" sparkle:edSignature="hGP6flqlu3/Ai8WTfk5JGkLJ1wm/MWPG1wzAb33u5cW/hhIKeQcOxTjYOPAnyRDHx8Qz5ZD0YOlXqAMkVFQrCA==" length="3805994"/>
+    </item>
   </channel>
 </rss>
